@@ -21,7 +21,7 @@ We warmly welcome contributions and collaborations! Whether you’d like to prop
 
 ### fork the repository and clone your fork.
 ```
-git clone https://github.com/your-username/ai-in-terminal.git
+git clone https://github.com/Swethancyber/AI-in-Terminel.git
 cd ai-in-terminal
 ```
 ### create a new branch 
